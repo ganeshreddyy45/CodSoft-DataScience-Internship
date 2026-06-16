@@ -1,36 +1,28 @@
-# CodSoft-DataScience-Internship
-Data Science Internship Projects completed under CodSoft Internship Program.
-# CodSoft Data Science Internship
-
-This repository contains all the tasks completed during my Data Science Internship at CodSoft.
-
 ## Tasks Completed
 
 ### Task 1: Titanic Survival Prediction
-- Data Cleaning
-- Exploratory Data Analysis
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
 - Logistic Regression
 - Random Forest Classifier
 - Accuracy: 81.01%
 
 ### Task 2: Movie Rating Prediction
-(To be added)
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Linear Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- Model Evaluation using MAE, RMSE & R² Score
 
 ### Task 3: Iris Flower Classification
-(To be added)
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- Model Evaluation using Accuracy, Confusion Matrix & Classification Report
 
 ### Task 4: Sales Prediction
 (To be added)
-
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-
-## Author
-
-Ganesh Reddy
