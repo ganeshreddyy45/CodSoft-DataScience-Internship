@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Tasks Completed
 
 ### Task 1: Titanic Survival Prediction
