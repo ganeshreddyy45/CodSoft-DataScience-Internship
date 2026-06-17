@@ -60,12 +60,12 @@ This repository contains all the tasks completed during my Data Science Internsh
 * Prediction of Movie Ratings based on Genre, Director, Actors, Votes, Duration, and Release Year
 
 ### Task 3: Iris Flower Classification
-
-(To be added)
-
-### Task 4: Sales Prediction
-
-(To be added)
+ Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- Model Evaluation using Accuracy, Confusion Matrix & Classification Report
 
 ## Technologies Used
 
@@ -99,7 +99,6 @@ CodSoft-DataScience-Internship/
 
 ├── Task-3-Iris-Flower-Classification/
 
-├── Task-4-Sales-Prediction/
 
 └── README.md
 
@@ -116,4 +115,4 @@ B.Tech Student | Data Science & Machine Learning Enthusiast
 **Domain:** Data Science
 
 **Duration:** Internship Project Series
->>>>>>> ac97f697d11afdd23c16a29e80cc5ab15833f578
+
