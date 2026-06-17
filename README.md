@@ -25,8 +25,6 @@
 - Random Forest Classifier
 - Model Evaluation using Accuracy, Confusion Matrix & Classification Report
 
-### Task 4: Sales Prediction
-(To be added)
 =======
 # CodSoft-DataScience-Internship
 
